@@ -1,4 +1,5 @@
 CRUD Simples em PHP
+
 Este repositório apresenta um sistema de CRUD (Create, Read, Update, Delete) para gerenciamento de usuários, desenvolvido em PHP com MySQL. Ele oferece funcionalidades de cadastro, listagem, edição e exclusão de registros, utilizando uma estrutura simples para fins de demonstração e aprendizado.
 
 Visão Geral do Projeto
