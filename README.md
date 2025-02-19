@@ -5,9 +5,11 @@ Um projeto de CRUD de usuários utilizando PHP e MySQL, com objetivo de demonstr
 ## Índice
 * Visão Geral
 * Estrutura do Projeto
+* Descrição dos Arquivos
 * Pré-Requisitos
 * Configuração
 * Execução
+* Utilize o menu de navegação para
 * Tecnologias Utilizadas
 
 ## Visão Geral
@@ -43,7 +45,7 @@ Clone ou baixe este repositório no seu ambiente de desenvolvimento:
 git clone (https://github.com/nikPaspa/crud_php.git)
 ```
 
-## Crie o banco de dados no MySQL conforme definido em config.php (por padrão, o nome do banco é cadastro) config
+## Crie o banco de dados no MySQL
 ```
 CREATE DATABASE cadastro;
 USE cadastro;
