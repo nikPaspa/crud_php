@@ -78,4 +78,4 @@ http://localhost/crud_php/crud.php
 ## Tecnologias Utilizadas
 * **PHP 7 ou superior**
 * **MySQL 5 ou superior**
-* **Bootstrap (para layout e estilização) **
+* **Bootstrap (para layout e estilização)**
