@@ -1,7 +1,6 @@
 # CRUD Simples em PHP
 
-Um projeto de CRUD de usuários utilizando PHP e MySQL, com objetivo de demonstrar e ensinar conceitos básicos de desenvolvimento web.
-
+Um projeto de CRUD de usuários utilizando PHP e MySQL
 ## Índice
 * **Visão Geral**
 * **Estrutura do Projeto**
