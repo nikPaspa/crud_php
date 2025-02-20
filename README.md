@@ -61,7 +61,7 @@ CREATE TABLE usuarios (
     born_date DATE
 );
 ```
-Ajuste as credenciais de conexão (host, usuário, senha e nome do banco) no arquivo config.php caso necessário config.
+*Ajuste as credenciais de conexão (host, usuário, senha e nome do banco) no arquivo config.php caso necessário config.*
 
 ## Execução
 Inicie o servidor Apache e o MySQL no seu ambiente local (XAMPP, WAMP ou outro).
