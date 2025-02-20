@@ -55,8 +55,8 @@ USE cadastro;
 ```
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    email VARCHAR(100) NOT NULL,
+    name VARCHAR(11) NOT NULL,
+    email VARCHAR(255) NOT NULL,
     password VARCHAR(255) NOT NULL,
     born_date DATE
 );
